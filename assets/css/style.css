@@ -377,7 +377,7 @@ h3 {
   margin-left: 10px;
 }
 a.hoverline {
-  border-bottom: 3px solid transparent !important;
+  border-bottom: 1px solid transparent !important;
   padding: 3px 3px 0 3px;
   transition: 0.25s all;
   -moz-transition: 0.25s all;
@@ -388,7 +388,7 @@ a.hoverline {
   border-bottom: 3px solid #24305e !important;
 } */
 a.hoverline:hover {
-  border-bottom: 3px solid #1750ac !important;
+  border-bottom: 1px solid #1750ac !important;
 }
 #skills .card.large {
   height: 360px;
