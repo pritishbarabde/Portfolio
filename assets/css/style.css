@@ -17,7 +17,11 @@
 .profile-pic img {
   width: 100%;
   height: auto;
-}
+  }
+.smaller {
+  font-size: 2px;
+  color: #2196f3;
+  }
 .tracker {
   /* visibility: hidden; */
   position: fixed;
