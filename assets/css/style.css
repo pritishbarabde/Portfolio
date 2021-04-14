@@ -388,7 +388,7 @@ a.hoverline {
   border-bottom: 3px solid #24305e !important;
 } */
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #1750ac !important;
 }
 #skills .card.large {
   height: 360px;
